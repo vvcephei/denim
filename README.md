@@ -12,12 +12,10 @@ That said, I do expect it to work, so let me know if it doesn't.
 
 If you have suggestions, please let me know. I'm all ears.
 
-Want
-----
+### Want
 * might as well focus on scala. I'd also like a nice java client, but my brevity expectations aren't as high in java
 
-Don't Want
-----------
+### Don't Want
 * no weird dsl syntax. Scala's support for new operators is very powerful, but let's drink responsibly.
 * no passing around ```Class[T]``` or ```GenericType[T](){}``` or anything like that. We have ```Manifest```. Let's use it.
 
