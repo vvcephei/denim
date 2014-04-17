@@ -2,7 +2,7 @@ name := "denim"
 
 organization := "org.vvcephei"
 
-version := "0.0"
+version := "0.3"
 
 scalaVersion := "2.10.3"
 
